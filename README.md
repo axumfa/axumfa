@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umid</h1>
+<h1 align="center">Hi 👋, I'm Uмid</h1>
 <h3 align="center">I am sophomore student at Inha University in Tashkent</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axumfa&label=Profile%20views&color=0e75b6&style=flat" alt="axumfa" /> </p>
